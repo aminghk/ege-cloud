@@ -1,7 +1,7 @@
 {
     "database": {
         "host": "amin.postgres.database.azure.com",
-        "dbname": "amin",
+        "dbname": "postgres",
         "user": "aminghk",
         "password": "Apr76665544",
         "ssl": "require"
